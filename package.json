@@ -1,0 +1,9 @@
+{
+  "name": "fake_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "merge-descriptors": "^1.0.1"
+  }
+}
